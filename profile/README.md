@@ -2,6 +2,9 @@
 
 This project demonstrates a decentralized prediction market built on the native Bitcoin network using Glittr. Our system leverages Automated Market Makers (AMMs) — specifically a Constant Sum Market Maker (CSMM) model — to provide continuous liquidity and dynamic pricing for binary outcome tokens. An off-chain oracle is integrated to resolve market outcomes based on real-world data.
 
+![image](https://github.com/user-attachments/assets/ea3fbbb6-54aa-4e62-a406-c71fa5717290)
+
+
 ## Overview
 
 - **Prediction Market:**  
